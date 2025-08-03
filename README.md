@@ -2,6 +2,8 @@
 This is a simple and responsive blog page created using **HTML**, **CSS**, and **JavaScript**.  
 I built this project as part of my frontend web development practice to improve my skills.
 
+# 🔗 [Live Site](https://blogger-portfolio-site.vercel.app/)
+
 ---
 
 ## 🚀 Features
